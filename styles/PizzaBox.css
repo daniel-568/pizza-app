@@ -1,0 +1,13 @@
+.PizzaBox {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border: 10px;
+}
+
+.PizzaBox div {
+    padding: 10px;
+    border-color: white;
+    border: solid;
+    background-color: tomato;
+}
